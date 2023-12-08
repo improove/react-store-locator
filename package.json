@@ -94,8 +94,5 @@
   },
   "author": "Crisp",
   "license": "MIT",
-  "homepage": "https://github.com/gocrisp/react-store-locator#readme",
-  "peerDependencies": {
-    "react": "^17.0.0"
-  }
+  "homepage": "https://github.com/gocrisp/react-store-locator#readme"
 }
