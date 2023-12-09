@@ -67,7 +67,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gocrisp/react-store-locator"
+    "url": "git+https://github.com/improove/react-store-locator"
   },
   "keywords": [],
   "jest": {
@@ -94,5 +94,5 @@
   },
   "author": "Crisp",
   "license": "MIT",
-  "homepage": "https://github.com/gocrisp/react-store-locator#readme"
+  "homepage": "https://github.com/improove/react-store-locator#readme"
 }
