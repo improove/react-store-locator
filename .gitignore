@@ -82,7 +82,6 @@ test_results
 src/**/*.js
 
 # Compiled JavaScript files
-dist/
 coverage/
 
 .idea/
