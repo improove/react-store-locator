@@ -11,7 +11,7 @@
     "readme.md"
   ],
   "dependencies": {
-    "@gocrisp/store-locator": "^0.5.7",
+    "@gocrisp/store-locator": "git+ssh://git@github.com:improove/store-locator.git",
     "@googlemaps/js-api-loader": "^1.11.3"
   },
   "devDependencies": {
