@@ -723,6 +723,7 @@ var createStoreLocatorMap = function createStoreLocatorMap(options) {
     var _temp3 = function _temp3(_result) {
       if (_exit2) return _result;
       var map = new google.maps.Map(container, _extends({}, defaultMapOptions, mapOptions));
+      window["storeLocatorMap"] = map;
 
       if (typeof geoJson === 'string') {
         map.data.loadGeoJson(geoJson);
